@@ -241,7 +241,6 @@ console.log(`❗❗ ${lenguajeGB['smsMensError2']()} ${usedPrefix + command} ❗
 console.log(e)}}
 
 handler.command = /^(menu|menú|memu|memú|help\?)$/i
-handler.register = true
 export default handler
 
 const more = String.fromCharCode(8206)
