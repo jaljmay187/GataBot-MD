@@ -17,16 +17,18 @@ global.owner = [
 ["593968585383"], 
 ["5492266613038"], 
 ["593968263524"],
+['5214434703586'],
 ["33760536110"],
 ["51906662557"],
 ["50492280729"],
 ["595976126756"],
 ["201066826750"],
-['201033024135'],
+["201033024135"],
 ["51948705559"],
 ["573012482597"],
 ["573147616444"],
 ["5215649706747"],
+["59175655964"],
 ["5215539356057"]]
 
 global.mods = []
@@ -143,7 +145,7 @@ global.author = ` ╭ 𝗚𝗮𝘁𝗮 𝗗𝗶𝗼𝘀 ✓\n ┃\n ┃ » 𝙶�
 // MANTENGA ESTO SIN MODIFICAR, NOS ESFORZAMOS A DIARIO POR OFRECERLES UN BOT PARA LA COMUNIDAD, SEA AGRADECIDO 😉
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
-global.vsJB = "2.5 (Beta)"
+global.vsJB = "3.0 (Beta)"
 global.gt = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •

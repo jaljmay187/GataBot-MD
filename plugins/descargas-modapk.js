@@ -30,9 +30,8 @@ await conn.sendMessage(m.chat, {document: {url: data5.dllink}, mimetype: 'applic
 } catch (e) {
 await conn.reply(m.chat, `${lenguajeGB['smsMalError3']()}#report ${lenguajeGB['smsMensError2']()} ${usedPrefix + command}\n\n${wm}`, m)
 console.log(`❗❗ ${lenguajeGB['smsMensError2']()} ${usedPrefix + command} ❗❗`)
-console.log(e)
-handler.limit = false
-}};
+console.log(e)}
+}
 handler.command = /^(apkmod|apk|modapk|dapk2|aptoide|aptoidedl|apkmodr)$/i;
 handler.register = true
 handler.limit = 2
