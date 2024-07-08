@@ -75,4 +75,3 @@ handler.command =/^(instagram|ig(dl)?)$/i
 handler.limit = 2
 handler.register = true
 export default handler
-
