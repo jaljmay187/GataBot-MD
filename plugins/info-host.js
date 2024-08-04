@@ -11,7 +11,7 @@ Aprovecha la compatibilidad y comienza usar GataBot en servidores de alto rendim
 https://www.cafirexos.com
 
 ✨ *Dashboard*
-https://dash.cafirexos.com
+https://dashboard.cafirexos.com
 
 ⚙️ *Panel*
 https://panel.cafirexos.com
@@ -36,13 +36,13 @@ let txt = `*¿Tu Nokia es muy lento y necesitas que tu bot esté activo 24/7?* �
 🟢 \`\`\`Información del Host\`\`\`
 
 💻 *Página:*
-https://www.infinity-wa.xyz/
+https://www.infinity-wa.com/
 
 *🟢 Dashboard:*
-https://dashboard.infinitywa.xyz
+https://dash.infinitywa-host.com
 
 ⚙️ *Panel*
-https://dashboard.infinitywa.xyz
+https://panel.infinitywa-host.com
 
 💥 *Grupo Support whatsapp:*
 https://chat.whatsapp.com/GQ82mPnSYnm0XL2hLPk7FV
